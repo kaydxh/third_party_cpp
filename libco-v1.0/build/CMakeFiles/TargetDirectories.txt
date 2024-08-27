@@ -1,0 +1,13 @@
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/colib_static.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/colib_shared.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_closure.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_cond.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_copystack.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_echocli.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_echosvr.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_poll.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_setenv.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_specific.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/example_thread.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/edit_cache.dir
+/data/home/kayxhding/pkg/libco/build/CMakeFiles/rebuild_cache.dir
