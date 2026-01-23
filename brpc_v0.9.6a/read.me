@@ -1,0 +1,11 @@
+
+# 将 lib.tar.gz 分割成多个 10MB 的小文件
+split -b 10M lib.tar.gz lib.tar.gz.part_
+
+
+# 合并所有分割文件
+cat lib.tar.gz.part_* > lib.tar.gz
+# 然后解压
+tar -xzf lib.tar.gz
+
+
